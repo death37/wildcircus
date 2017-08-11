@@ -1,4 +1,4 @@
-# wildcircus
+# Wildcircus challenge
 
 Challenge d'Admission à la Wild Code School
 
